@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
