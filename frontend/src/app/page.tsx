@@ -12,6 +12,8 @@ import { getUniqueCompanies, getUniqueLocations, getUniqueCategories, getUniqueJ
 import { searchJobs } from "@/lib/search";
 import { applyFilters, sortJobs } from "@/lib/filters";
 
+const BASE = "/job-board";
+
 export default function HomePage() {
   const [allJobs, setAllJobs] = useState<Job[]>([]);
   const [loading, setLoading] = useState(true);
@@ -19,8 +21,8 @@ export default function HomePage() {
   const [filters, setFilters] = useState<FilterState>(DEFAULT_FILTERS);
 
   useEffect(() => {
-    fetch("/merged.json").then(r => r.ok ? r.json() : []).then(setAllJobs).catch(() => setAllJobs([])).finally(() => setLoading(false));
-    fetch("/meta.json").then(r => r.json()).then(setMeta).catch(() => {});
+    fetch(`${BASE}/merged.json`).then(r => r.ok ? r.json() : []).then(setAllJobs).catch(() => setAllJobs([])).finally(() => setLoading(false));
+    fetch(`${BASE}/meta.json`).then(r => r.json()).then(setMeta).catch(() => {});
   }, []);
 
   const companies = useMemo(() => getUniqueCompanies(allJobs), [allJobs]);
