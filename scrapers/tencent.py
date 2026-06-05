@@ -1,7 +1,8 @@
-"""Tencent career scraper using public REST API."""
+"""Tencent career scraper using public REST API (GET)."""
 
 import logging
 import re
+import time
 from datetime import datetime, timezone, timedelta
 from typing import Optional
 from scrapers.base import BaseScraper, ScraperConfig, JobResult
@@ -49,28 +50,63 @@ class TencentScraper(BaseScraper):
         )
         super().__init__(config)
 
+    async def _get_json(self, url: str, params: dict = None) -> dict:
+        """GET request with retry, returning JSON."""
+        last_error = None
+        for attempt in range(3):
+            try:
+                await self._rate_limit()
+                async with self.session.get(url, params=params, timeout=self.config.timeout) as resp:
+                    if resp.status == 429:
+                        wait = 60
+                        logger.warning(f"[tencent] Rate limited, waiting {wait}s")
+                        await self._rate_limit()
+                        continue
+                    resp.raise_for_status()
+                    return await resp.json()
+            except Exception as e:
+                last_error = e
+                wait = 2 ** attempt
+                logger.warning(f"[tencent] GET attempt {attempt+1}/3 failed: {e}")
+                await self._rate_limit()
+        raise last_error
+
     async def fetch_job_ids(self) -> list:
         all_posts = []
         page = 1
+        ts = int(time.time() * 1000)
+
         while page <= 20:
-            payload = {
-                "timestamp": int(datetime.now().timestamp() * 1000),
-                "countryId": 1, "cityId": 0, "bgIds": [],
-                "productId": [], "categoryId": [], "parentCategoryId": [],
-                "attrId": [], "keyword": "",
-                "pageIndex": page, "pageSize": 30,
-                "language": "zh-cn", "area": "cn",
+            params = {
+                "timestamp": ts,
+                "countryId": "1",
+                "cityId": "0",
+                "bgIds": "",
+                "productId": "",
+                "categoryId": "",
+                "parentCategoryId": "",
+                "attrId": "",
+                "keyword": "",
+                "pageIndex": str(page),
+                "pageSize": "30",
+                "language": "zh-cn",
+                "area": "cn",
             }
+
             try:
-                data = await self._retry_post(TENCENT_LIST_API, json=payload)
+                data = await self._get_json(TENCENT_LIST_API, params)
             except Exception as e:
                 logger.error(f"[tencent] API failed page {page}: {e}")
                 break
+
             if data.get("Status") != "SUCCESS":
+                logger.warning(f"[tencent] Non-success: {data.get('Status')}")
                 break
+
             posts = data.get("Data", {}).get("Posts", [])
             if not posts:
                 break
+
             all_posts.extend(posts)
             logger.info(f"[tencent] Page {page}: {len(posts)} posts (total {len(all_posts)})")
             page += 1
@@ -86,19 +122,24 @@ class TencentScraper(BaseScraper):
 
     async def parse_job_detail(self, post_data: dict) -> Optional[JobResult]:
         post_id = post_data.get("PostId")
-        description = ""
-        requirements = ""
-        try:
-            detail_url = f"{TENCENT_DETAIL_API}?postId={post_id}&language=zh-cn"
-            async with self.session.get(detail_url, timeout=self.config.timeout) as resp:
-                detail_data = await resp.json()
-                if detail_data.get("Status") == "SUCCESS":
-                    d = detail_data.get("Data", {})
-                    description = d.get("Responsibility", "") or ""
-                    requirements = d.get("Requirement", "") or ""
-        except Exception:
-            description = post_data.get("Responsibility", "") or ""
-            requirements = post_data.get("Requirement", "") or ""
+        description = post_data.get("Responsibility", "") or ""
+        requirements = post_data.get("Requirement", "") or ""
+
+        # Try detail API for full text if needed
+        if not description or not requirements:
+            try:
+                ts = int(time.time() * 1000)
+                detail = await self._get_json(TENCENT_DETAIL_API, {
+                    "timestamp": str(ts),
+                    "postId": str(post_id),
+                    "language": "zh-cn",
+                })
+                if detail.get("Status") == "SUCCESS":
+                    d = detail.get("Data", {})
+                    description = d.get("Responsibility", "") or description
+                    requirements = d.get("Requirement", "") or requirements
+            except Exception:
+                pass
 
         title = post_data.get("RecruitPostName", "")
         location = post_data.get("LocationName", "")
@@ -116,10 +157,10 @@ class TencentScraper(BaseScraper):
             post_date=self._parse_date(post_data.get("LastUpdateTime", "")),
             collect_date=datetime.now(timezone(timedelta(hours=8))).isoformat(),
             is_new=False,
-            url=f"https://careers.tencent.com/job/detail?id={post_id}",
+            url=post_data.get("PostURL", "") or f"https://careers.tencent.com/job/detail?id={post_id}",
             description=description,
             requirements=requirements,
-            salary=post_data.get("Salary", "面议") or "面议",
+            salary="面议",
             source="tencent",
             source_url=self.config.source_url,
             tags=self._tags(title, description, requirements),
