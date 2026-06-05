@@ -99,8 +99,8 @@ class TencentScraper(BaseScraper):
                 logger.error(f"[tencent] API failed page {page}: {e}")
                 break
 
-            if data.get("Status") != "SUCCESS":
-                logger.warning(f"[tencent] Non-success: {data.get('Status')}")
+            if data.get("Code") != 200:
+                logger.warning(f"[tencent] Non-success: {data.get('Code')}")
                 break
 
             posts = data.get("Data", {}).get("Posts", [])
@@ -134,7 +134,7 @@ class TencentScraper(BaseScraper):
                     "postId": str(post_id),
                     "language": "zh-cn",
                 })
-                if detail.get("Status") == "SUCCESS":
+                if detail.get("Code") == 200:
                     d = detail.get("Data", {})
                     description = d.get("Responsibility", "") or description
                     requirements = d.get("Requirement", "") or requirements
