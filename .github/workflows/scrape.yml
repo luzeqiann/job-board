@@ -48,6 +48,8 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+      - name: Pull latest data
+        run: git pull origin main
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
