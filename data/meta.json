@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-06-05T23:17:45.898587+08:00",
-  "totalJobs": 0,
-  "newJobsThisRun": 0,
+  "lastRun": "2026-06-05T23:27:15.499307+08:00",
+  "totalJobs": 6,
+  "newJobsThisRun": 6,
   "statusPerSource": {
     "tencent": "success",
     "netease": "success",
