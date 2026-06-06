@@ -120,6 +120,26 @@ class BaseScraper(ABC):
         text = (job.title + " " + job.description).lower()
         return any(kw.lower() in text for kw in keywords)
 
+    def suitable_for_fresh_grad(self, job: JobResult) -> bool:
+        """Filter out jobs requiring advanced degrees or years of experience."""
+        text = f"{job.title} {job.description} {job.requirements}".lower()
+
+        # Exclude advanced degrees
+        if any(w in text for w in ["硕士", "博士", "研究生"]):
+            return False
+
+        # Exclude multi-year experience
+        if any(w in text for w in ["两年以上", "三年以上", "五年以上", "八年以上",
+                                     "年以上经验", "年以上工作",
+                                     "3年以上", "5年以上", "2年以上"]):
+            return False
+
+        # Exclude clearly senior titles
+        if any(w in job.title for w in ["高级", "资深", "专家", "架构师", "总监"]):
+            return False
+
+        return True
+
     async def run(self, keywords: list) -> list:
         logger.info(f"[{self.config.name}] Starting: {self.config.company_display}")
         results = []
@@ -132,8 +152,15 @@ class BaseScraper(ABC):
         for jid in job_ids:
             try:
                 job = await self.parse_job_detail(jid)
-                if job and self.should_include(job) and self.should_include_by_keyword(job, keywords):
-                    results.append(job)
+                if not job:
+                    continue
+                if not self.suitable_for_fresh_grad(job):
+                    continue
+                if not self.should_include(job):
+                    continue
+                if not self.should_include_by_keyword(job, keywords):
+                    continue
+                results.append(job)
             except Exception as e:
                 logger.error(f"[{self.config.name}] Failed job {jid}: {e}")
         logger.info(f"[{self.config.name}] Matched {len(results)} jobs")
