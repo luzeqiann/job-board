@@ -28,11 +28,13 @@ def load_existing_jobs(source: str) -> list:
 
 
 def merge_and_deduplicate(new_jobs: list, source: str) -> list:
-    existing_map = {j["id"]: j for j in load_existing_jobs(source)}
+    """Replace existing data with new scrape. Jobs not in new scrape are removed."""
+    old_map = {j["id"]: j for j in load_existing_jobs(source)}
     tz = timezone(timedelta(hours=8))
     now = datetime.now(tz).isoformat()
     new_count = 0
 
+    merged = []
     for job in new_jobs:
         d = {
             "id": job.id, "company": job.company, "title": job.title,
@@ -43,20 +45,19 @@ def merge_and_deduplicate(new_jobs: list, source: str) -> list:
             "requirements": job.requirements, "salary": job.salary,
             "source": job.source, "sourceUrl": job.source_url, "tags": job.tags,
         }
-        if job.id in existing_map:
-            d["collectDate"] = existing_map[job.id].get("collectDate", now)
-            d["isNew"] = existing_map[job.id].get("isNew", False)
-            existing_map[job.id] = d
+        if job.id in old_map:
+            d["collectDate"] = old_map[job.id].get("collectDate", now)
+            d["isNew"] = old_map[job.id].get("isNew", False)
         else:
             d["isNew"] = True
-            existing_map[job.id] = d
             new_count += 1
+        merged.append(d)
 
-    merged = list(existing_map.values())
+    removed = len(old_map) - len(merged)
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     (DATA_DIR / f"{source}.json").write_text(
         json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")
-    logger.info(f"[{source}] {len(merged)} total, {new_count} new")
+    logger.info(f"[{source}] {len(merged)} total, {new_count} new, {removed} removed")
     return merged
 
 
