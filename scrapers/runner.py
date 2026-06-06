@@ -10,6 +10,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from scrapers.tencent import TencentScraper
+from scrapers.gdut import GdutScraper
 from scrapers.netease import NeteaseScraper
 from scrapers.huawei import HuaweiScraper
 from scrapers.state_owned import StateOwnedScraper
@@ -24,6 +25,7 @@ logger = logging.getLogger("runner")
 
 ALL_SCRAPERS = [
     ("tencent", TencentScraper),
+    ("gdut", GdutScraper),
     ("netease", NeteaseScraper),
     ("huawei", HuaweiScraper),
     ("state_owned", StateOwnedScraper),
