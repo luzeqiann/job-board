@@ -1,0 +1,88 @@
+[
+  {
+    "id": "tencent_1978467627152072704",
+    "company": "腾讯",
+    "title": "微信读书/秒剪/输入法-AI产品经理（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "大模型应用",
+    "postDate": "2026-06-13",
+    "collectDate": "2026-06-05T23:27:15.495956+08:00",
+    "isNew": false,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=1978467627152072704",
+    "description": "1.结合前沿技术发展趋势，探索AI在视频生成/阅读消费/内容创作/输入等场景的创新落地方案；\r\n2.洞察挖掘用户对AI的真实需求和具体场景，设计解决方案并落地；\r\n3.结合目标定义模型效果标准，协同研发、设计同学进行评测和效果优化。",
+    "requirements": "1.超强的学习能力，强烈的好奇心和探索欲，不做好不罢休的胜负欲；\r\n2.有C端AI 相关产品经验，对AI行业趋势和大模型技术有深刻理解和热情；\r\n3.具备极强的用户思维和数据分析能力，能精准理解用户需求并利用数据驱动决策；\r\n4.内容感受力强，能结合需求场景，为模型制定任务目标和效果标准。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "大模型"
+    ]
+  },
+  {
+    "id": "tencent_2020809543059144704",
+    "company": "腾讯",
+    "title": "元宝自动化测试工程师（CSIG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "自动化测试",
+    "postDate": "2026-06-13",
+    "collectDate": "2026-06-11T00:39:09.248158+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2020809543059144704",
+    "description": "1.设计并落地覆盖 APP/PC/Web 多终端及后台接口的自动化测试体系，制定统一的自动化规范与执行标准，支撑产品快速迭代；\r\n2.深耕 AI + 自动化场景，研发智能测试工具（如 LLM 辅助用例生成、多模态控件推理和数据构造、测试结果 AI 校验），解决传统自动化高维护成本的痛点；\r\n3.维护自动化脚本与测试环境，适配 AI 模型迭代与产品功能更新，保障自动化执行稳定性与结果准确性；\r\n4.优化自动化测试流程，提升脚本复用率与执行效率，推动测试左移（研发自测）与右移（线上监控），构建全链路自动化质量保障；\r\n5.智能化分析自动化测试数据，输出质量报告，定位性能瓶颈与功能缺陷，推动研发团队优化，提升产品稳定性。",
+    "requirements": "1.精通 Python/GO，熟练掌握自动化测试框架（如 Pytest）或多终端测试工具（Appium/Selenium）、接口测试工具（JMeter/Postman）；\r\n2.AI+UI自动化框架经验：有将计算机视觉（CV）、大语言模型（LLM）、多模态等AI技术应用于UI自动化测试的实际项目经验，例如UITARS、MAI Agent、GLM Agent等UI Agent解决方案者，解决过传统框架无法处理的难题（如动态内容断言、智能等待、复杂场景路径记忆）；\r\n3.智能体（Agent）设计与落地经验：深入参与过AI Agent类产品的设计、开发或测试，理解其架构（如ReAct， CoT）、工作流程，并能系统性设计其测试方案。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "LLM",
+      "Agent",
+      "Python"
+    ]
+  },
+  {
+    "id": "gdut_2572831",
+    "company": "广州贪玩信息技术有限公司",
+    "title": "【2027实习】AI产品经理（智能投放方向）",
+    "location": "| 广东省广州市天河区 | 实习 | 本科及以上",
+    "locationCity": "广州",
+    "jobType": "实习",
+    "category": "AI应用工程师",
+    "postDate": "2026-05-25",
+    "collectDate": "2026-06-06T12:01:08.563804+08:00",
+    "isNew": false,
+    "url": "https://career.gdut.edu.cn/job/view/id/2572831",
+    "description": "",
+    "requirements": "",
+    "salary": "3000-6000",
+    "source": "gdut",
+    "sourceUrl": "https://career.gdut.edu.cn",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "gdut_2572641",
+    "company": "安富利电子（上海）有限公司深圳分公司",
+    "title": "流程自动化助理",
+    "location": "| 广东省深圳市宝安区 | 实习 | 本科及以上",
+    "locationCity": "深圳",
+    "jobType": "实习",
+    "category": "AI相关",
+    "postDate": "2026-04-20",
+    "collectDate": "2026-06-06T12:01:08.563804+08:00",
+    "isNew": false,
+    "url": "https://career.gdut.edu.cn/job/view/id/2572641",
+    "description": "",
+    "requirements": "",
+    "salary": "3000-5000",
+    "source": "gdut",
+    "sourceUrl": "https://career.gdut.edu.cn",
+    "tags": []
+  }
+]
