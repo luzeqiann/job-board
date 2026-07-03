@@ -1,26 +1,5 @@
 [
   {
-    "id": "tencent_1951113659853963264",
-    "company": "腾讯",
-    "title": "微信秒剪-AI产品经理（WXG）",
-    "location": "广州",
-    "locationCity": "广州",
-    "jobType": "社招",
-    "category": "AI应用工程师",
-    "postDate": "2026-07-02",
-    "collectDate": "2026-07-02T23:15:22.219729+08:00",
-    "isNew": true,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=1951113659853963264",
-    "description": "1.负责秒剪的产品策划工作，深度挖掘用户在视频创作领域的核心痛点与潜在需求，设计并落地创新的产品方案，有效提升用户产品体验和使用效率；\r\n2.围绕AI应用落地方向深入研究和设计，能够快速学习，拆解复杂问题并与开发同学有效配合制定解决方案，不断强化产品特点和独特的用户价值；\r\n3.持续了解和深挖行业和用户特点，提出创新性的产品玩法，提升用户留存和活跃。",
-    "requirements": "1.超强的学习能力，强烈的好奇心和探索欲，不做好不罢休的胜负欲；\r\n2.认同并喜欢产品工作，对产品设计有饱满热情，正直善良，有良好的合作意识和沟通能力；\r\n3.对用户高度敏感，具备扎实的用户思维，能够精准理解目标用户，并在此基础上独立思考，提出具有创新性的产品解决方案；\r\n4.具备优秀的数据分析能力，能系统性思考、精准拆解复杂问题；逻辑清晰严谨，能有效利用数据驱动决策；\r\n5.具备优秀的项目推动能力和执行力，能在快节奏、多变化的环境中高效工作，结果导向，敢于担当，抗压能力强；\r\n6.三年及以上产品策划工作经验。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
     "id": "tencent_1978467627152072704",
     "company": "腾讯",
     "title": "微信输入法-AI产品经理（WXG）",
@@ -28,7 +7,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-02",
+    "postDate": "2026-07-03",
     "collectDate": "2026-06-05T23:27:15.495956+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1978467627152072704",
@@ -45,6 +24,27 @@
     ]
   },
   {
+    "id": "tencent_1951113659853963264",
+    "company": "腾讯",
+    "title": "微信秒剪-AI产品经理（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "AI应用工程师",
+    "postDate": "2026-07-03",
+    "collectDate": "2026-07-02T23:15:22.219729+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=1951113659853963264",
+    "description": "1.负责秒剪的产品策划工作，深度挖掘用户在视频创作领域的核心痛点与潜在需求，设计并落地创新的产品方案，有效提升用户产品体验和使用效率；\r\n2.围绕AI应用落地方向深入研究和设计，能够快速学习，拆解复杂问题并与开发同学有效配合制定解决方案，不断强化产品特点和独特的用户价值；\r\n3.持续了解和深挖行业和用户特点，提出创新性的产品玩法，提升用户留存和活跃。",
+    "requirements": "1.超强的学习能力，强烈的好奇心和探索欲，不做好不罢休的胜负欲；\r\n2.认同并喜欢产品工作，对产品设计有饱满热情，正直善良，有良好的合作意识和沟通能力；\r\n3.对用户高度敏感，具备扎实的用户思维，能够精准理解目标用户，并在此基础上独立思考，提出具有创新性的产品解决方案；\r\n4.具备优秀的数据分析能力，能系统性思考、精准拆解复杂问题；逻辑清晰严谨，能有效利用数据驱动决策；\r\n5.具备优秀的项目推动能力和执行力，能在快节奏、多变化的环境中高效工作，结果导向，敢于担当，抗压能力强；\r\n6.三年及以上产品策划工作经验。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
     "id": "tencent_2069671178192207872",
     "company": "腾讯",
     "title": "微信小程序-大模型后台开发工程师-开发生态（WXG）",
@@ -52,7 +52,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-02",
+    "postDate": "2026-07-03",
     "collectDate": "2026-07-01T23:43:03.831483+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2069671178192207872",
@@ -76,7 +76,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-02",
+    "postDate": "2026-07-03",
     "collectDate": "2026-07-01T23:43:03.831483+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2069242481526091776",
@@ -101,7 +101,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-07-02",
+    "postDate": "2026-07-03",
     "collectDate": "2026-06-30T23:31:55.779352+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2071854091545526272",
@@ -122,9 +122,9 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-02",
+    "postDate": "2026-07-03",
     "collectDate": "2026-06-30T00:41:55.674627+08:00",
-    "isNew": true,
+    "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2068897868235849728",
     "description": "1.负责读书产品部新应用的产品策划工作，涵盖 IM 群聊、AI Agent、实时协同等；\r\n2.结合前沿技术发展趋势，探索AI在办公协作/项目管理等场景的创新落地方案；\r\n3.洞察挖掘用户对AI的真实需求和具体场景，设计解决方案并落地；\r\n4.跟进并理解大模型等相关技术发展，深刻理解模型进化带来的改变，在产品的设计中充分应用模型能力。",
     "requirements": "1.具备极客精神，能通过低代码平台或代码进行原型验证，自己动手搭建过各种AI Agent/工具项目优先；\r\n2.有B端或C端AI 相关产品经验，对AI行业趋势和大模型技术有深刻理解和热情；\r\n3.超强的学习能力，强烈的好奇心和探索欲，不做好不罢休的胜负欲；\r\n4.具备极强的用户思维和数据分析能力，能精准理解用户需求并利用数据驱动决策。",
@@ -145,7 +145,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-07-02",
+    "postDate": "2026-07-03",
     "collectDate": "2026-06-26T23:29:02.004672+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2048675210231709696",
@@ -156,30 +156,6 @@
     "sourceUrl": "https://careers.tencent.com",
     "tags": [
       "AI"
-    ]
-  },
-  {
-    "id": "tencent_2037467994921271296",
-    "company": "腾讯",
-    "title": "企业微信-AI应用后台开发工程师-AI大模型应用（成都/北京）（WXG）",
-    "location": "广州",
-    "locationCity": "广州",
-    "jobType": "社招",
-    "category": "AI应用工程师",
-    "postDate": "2026-07-02",
-    "collectDate": "2026-06-25T23:44:44.561090+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2037467994921271296",
-    "description": "1.负责企业微信AI应用后台系统的设计、开发与迭代，集成大模型能力，为企业用户提供智能对话、任务自动化等场景服务；\r\n2.构建高可用、低延迟的模型调用与服务调度框架，优化AI请求链路的稳定性与性能；\r\n3.与AI产品、算法团队紧密协作，推动LLM（大语言模型）功能在企微生态中的落地，扩展AI应用能力矩阵；\r\n4.负责分布式后台服务的功能开发、容灾设计与性能调优，保障系统在高并发场景下的可靠性。",
-    "requirements": "1.计算机/人工智能相关专业，1年以上工程开发经验；\r\n2.具备良好的编程能力，熟悉C++/Python，有1年以上Linux/Unix后台开发工作经验；\r\n3.了解大模型相关技术原理与基础知识，具备AI系统开发经验者优先；\r\n4.具备良好的问题分析解决能力、责任心强。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI",
-      "大模型",
-      "LLM",
-      "Python"
     ]
   }
 ]
