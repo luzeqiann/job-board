@@ -1,5 +1,26 @@
 [
   {
+    "id": "tencent_1951113659853963264",
+    "company": "腾讯",
+    "title": "微信秒剪-AI产品经理（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "AI应用工程师",
+    "postDate": "2026-07-07",
+    "collectDate": "2026-07-02T23:15:22.219729+08:00",
+    "isNew": false,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=1951113659853963264",
+    "description": "1.负责秒剪的产品策划工作，深度挖掘用户在视频创作领域的核心痛点与潜在需求，设计并落地创新的产品方案，有效提升用户产品体验和使用效率；\r\n2.围绕AI应用落地方向深入研究和设计，能够快速学习，拆解复杂问题并与开发同学有效配合制定解决方案，不断强化产品特点和独特的用户价值；\r\n3.持续了解和深挖行业和用户特点，提出创新性的产品玩法，提升用户留存和活跃。",
+    "requirements": "1.超强的学习能力，强烈的好奇心和探索欲，不做好不罢休的胜负欲；\r\n2.认同并喜欢产品工作，对产品设计有饱满热情，正直善良，有良好的合作意识和沟通能力；\r\n3.对用户高度敏感，具备扎实的用户思维，能够精准理解目标用户，并在此基础上独立思考，提出具有创新性的产品解决方案；\r\n4.具备优秀的数据分析能力，能系统性思考、精准拆解复杂问题；逻辑清晰严谨，能有效利用数据驱动决策；\r\n5.具备优秀的项目推动能力和执行力，能在快节奏、多变化的环境中高效工作，结果导向，敢于担当，抗压能力强；\r\n6.三年及以上产品策划工作经验。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
     "id": "tencent_1978467627152072704",
     "company": "腾讯",
     "title": "微信输入法-AI产品经理（WXG）",
@@ -7,7 +28,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-05",
+    "postDate": "2026-07-07",
     "collectDate": "2026-06-05T23:27:15.495956+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1978467627152072704",
@@ -24,27 +45,6 @@
     ]
   },
   {
-    "id": "tencent_1951113659853963264",
-    "company": "腾讯",
-    "title": "微信秒剪-AI产品经理（WXG）",
-    "location": "广州",
-    "locationCity": "广州",
-    "jobType": "社招",
-    "category": "AI应用工程师",
-    "postDate": "2026-07-05",
-    "collectDate": "2026-07-02T23:15:22.219729+08:00",
-    "isNew": true,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=1951113659853963264",
-    "description": "1.负责秒剪的产品策划工作，深度挖掘用户在视频创作领域的核心痛点与潜在需求，设计并落地创新的产品方案，有效提升用户产品体验和使用效率；\r\n2.围绕AI应用落地方向深入研究和设计，能够快速学习，拆解复杂问题并与开发同学有效配合制定解决方案，不断强化产品特点和独特的用户价值；\r\n3.持续了解和深挖行业和用户特点，提出创新性的产品玩法，提升用户留存和活跃。",
-    "requirements": "1.超强的学习能力，强烈的好奇心和探索欲，不做好不罢休的胜负欲；\r\n2.认同并喜欢产品工作，对产品设计有饱满热情，正直善良，有良好的合作意识和沟通能力；\r\n3.对用户高度敏感，具备扎实的用户思维，能够精准理解目标用户，并在此基础上独立思考，提出具有创新性的产品解决方案；\r\n4.具备优秀的数据分析能力，能系统性思考、精准拆解复杂问题；逻辑清晰严谨，能有效利用数据驱动决策；\r\n5.具备优秀的项目推动能力和执行力，能在快节奏、多变化的环境中高效工作，结果导向，敢于担当，抗压能力强；\r\n6.三年及以上产品策划工作经验。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
     "id": "tencent_2069671178192207872",
     "company": "腾讯",
     "title": "微信小程序-大模型后台开发工程师-开发生态（WXG）",
@@ -52,7 +52,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-05",
+    "postDate": "2026-07-07",
     "collectDate": "2026-07-01T23:43:03.831483+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2069671178192207872",
@@ -76,7 +76,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-05",
+    "postDate": "2026-07-07",
     "collectDate": "2026-07-01T23:43:03.831483+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2069242481526091776",
@@ -101,7 +101,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-07-05",
+    "postDate": "2026-07-07",
     "collectDate": "2026-06-30T23:31:55.779352+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2071854091545526272",
@@ -122,7 +122,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-05",
+    "postDate": "2026-07-07",
     "collectDate": "2026-06-30T00:41:55.674627+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2068897868235849728",
@@ -135,27 +135,6 @@
       "AI",
       "大模型",
       "Agent"
-    ]
-  },
-  {
-    "id": "tencent_2048675210231709696",
-    "company": "腾讯",
-    "title": "云及AI 技术公关经理（CDG）",
-    "location": "深圳",
-    "locationCity": "深圳",
-    "jobType": "社招",
-    "category": "AI产品",
-    "postDate": "2026-07-05",
-    "collectDate": "2026-06-26T23:29:02.004672+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2048675210231709696",
-    "description": "1.负责腾讯云及AI产品/技术的全球化传播，围绕云 IaaS/MaaS/PaaS等产品，策划并执行有技术深度的传播方案；\r\n2.基于技术趋势和行业格局，主动识别传播机会、定义叙事方向，将有传播潜力的技术和产品节点转化为有影响力的传播；\r\n3.具备舆情敏感性，善于危机处理和舆情管理。",
-    "requirements": "1.1-3 年公关传播、内容营销、开发者关系或增长运营相关经验，与 AI / 云计算 / 开发者生态相关优先；\r\n2.深度理解、热爱 AI 和云技术，具备独立的传播战略判断力，能看懂论文和技术社区内容，是 AI 产品的深度用户；\r\n3.有敏锐内容嗅觉和文案功底；\r\n4.自驱、协作性好、开放心态。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI"
     ]
   },
   {
