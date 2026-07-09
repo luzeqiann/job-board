@@ -7,7 +7,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-08",
+    "postDate": "2026-07-09",
     "collectDate": "2026-06-05T23:27:15.495956+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1978467627152072704",
@@ -31,7 +31,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI应用工程师",
-    "postDate": "2026-07-08",
+    "postDate": "2026-07-09",
     "collectDate": "2026-07-02T23:15:22.219729+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1951113659853963264",
@@ -52,7 +52,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-08",
+    "postDate": "2026-07-10",
     "collectDate": "2026-07-01T23:43:03.831483+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2069671178192207872",
@@ -66,52 +66,6 @@
       "RAG",
       "Agent",
       "Python"
-    ]
-  },
-  {
-    "id": "tencent_2069242481526091776",
-    "company": "腾讯",
-    "title": "微信小游戏-大模型后训练工程师（WXG）",
-    "location": "深圳",
-    "locationCity": "深圳",
-    "jobType": "社招",
-    "category": "大模型应用",
-    "postDate": "2026-07-08",
-    "collectDate": "2026-07-01T23:43:03.831483+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2069242481526091776",
-    "description": "1.负责大模型在游戏业务场景的应用落地与全链路研发，覆盖小游戏试玩内容创作（玩法/剧情/素材生成）、开发者工具提效（代码生成与理解、资源生产、自动化测试等）等方向。设计并落地基于执行反馈、自动化评测与定向修复等技术的数据生产、质量保障与优化方案，打通从场景理解、数据构造、模型微调到线上效果验证的闭环，确保大模型在游戏场景中高质量、高标准交付；\r\n2.深度参与游戏大模型能力的专项评测与分析（如试玩内容的可玩性与质量、生成代码的正确性与可运行性、工具提效收益等），制定科学的评价指标体系。通过剖析模型在实际游戏研发与内容创作任务中的弱项，设计并落地高效的数据飞轮机制，定向进行数据补充与配方调整，实现\"评测发现问题-数据定向强化-效果闭环提升\"，持续驱动模型游戏核心能力的演进；\r\n3.追踪与研究支撑大模型在游戏业务落地的前沿技术，关注基于执行反馈的3、强化学习（RLAIF/RLCE）、代码自验证生成、AI SWE、多模态内容生成、游戏智能体（Game Agent）等方向，能够将最新研究成果快速转化为游戏业务价值。",
-    "requirements": "1.计算机相关专业，具备较强的动手能力；熟悉 Python ，具备扎实的系统编程功底和优秀的复杂系统 Debug 能力；\n2.训练框架经验： 深入理解大模型分布式训练原理，具备 Megatron-LM、DeepSpeed 或 PyTorch FSDP 等主流框架的实际源码级开发与定制经验；\n3.RL 与 RL Infra 储备： 熟悉大模型后训练与对齐技术（PPO、GRPO、DPO等），熟悉 Verl、ROLL，AReal 等强化学习/分布式计算框架，可以理解并解决 RL过程中的工程痛点；\n4.综合素质： 具备极强的技术好奇心与自驱力，面对业界无先例的技术难题，能独立思考并推动解决。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI",
-      "大模型",
-      "Agent",
-      "Python",
-      "PyTorch"
-    ]
-  },
-  {
-    "id": "tencent_2071854091545526272",
-    "company": "腾讯",
-    "title": "产品体验设计师-AI方向（深圳/北京）（TEG）",
-    "location": "深圳",
-    "locationCity": "深圳",
-    "jobType": "社招",
-    "category": "AI产品",
-    "postDate": "2026-07-08",
-    "collectDate": "2026-06-30T23:31:55.779352+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2071854091545526272",
-    "description": "1.负责混元 AI产品、平台全链路设计 ，包括完整项目从设计策略到UX/UI关键设计方案的产出；\r\n2.能够独立承担团队重点项目攻坚, 从体验和视觉的角度保障项目高质量落地；\r\n3.具备对产品理解的全局视角，能提出具备落地可行性的产品解决方案；\r\n4.参与团队设计体系建设，制定设计规范、搭建与维护设计组件库，沉淀方法与经验。",
-    "requirements": "1.1 年以上产品体验设计经验，可独立完成 AI 产品从 0 到 1 设计落地；\n2.全链路式的产品设计能力 (UX/UI可有侧重) ；\n3.注重创新、创意, 具备扎实的美学基础和设计功底，前瞻的审美判断力；\n4.具备良好团队合作精神，沟通高效、工作主动、责任心强。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI"
     ]
   }
 ]
