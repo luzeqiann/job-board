@@ -1,23 +1,47 @@
 [
   {
-    "id": "tencent_1988158203220877312",
+    "id": "tencent_2033172783344812032",
     "company": "腾讯",
-    "title": "腾讯元宝AI战略分析师（CSIG）",
+    "title": "智能体-内容创作运营经理-WorkBuddy（CSIG）",
     "location": "深圳",
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-07-15",
-    "collectDate": "2026-07-15T22:51:16.269985+08:00",
+    "postDate": "2026-07-16",
+    "collectDate": "2026-07-16T23:08:25.333857+08:00",
     "isNew": true,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=1988158203220877312",
-    "description": "1.分析海内外 AI 领域的发展方向，产品机会和探索商业模式，输出深入的分析报告；\n2.监测市场行业数据、竞争对手动态，对重点产品情况进行深入分析，结合腾讯业务现状协助业务寻找提升的潜在机会点；\n3.统筹和监督AI产品相关用户研究项目的执行流程，确保用户研究项目产出有价值/可落地结论；\n4.通过内部业务数据/用户调研/专家访谈等多种调研手段对业务关注的问题进行系统性研究并形成可落地结论，驱动产品用户增长和留存提升。",
-    "requirements": "1.  3年 + 相关工作经验，具投资、咨询、互联网战略商分等工作经验优先；\n2.国内外优秀院校的计算机、软件工程、信息管理、信息系统和统计学、商业分析等专业优先；\n3.期望拥有旺盛的好奇心、强大的学习能力、和追求卓越的自驱力；\n4.良好的沟通合作能力，能够以书面和口头报告的形式清晰表达观点和思考逻辑；\n5.具备中英文听、说、读、写能力优先；\n6.对 AI 产品、技术趋势等有进行过专项研究经验的优先。",
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2033172783344812032",
+    "description": "1.负责AI产品相关技术内容创作，能拆解AI Agent技术原理，输出产品在开发场景的最佳实践内容，确保内容专业准确、逻辑清晰；\n2.配合产品迭代节奏，同步产品功能亮点与技术优势，挖掘AI产品核心价值，输出适配营销场景的技术向内容（如案例解析、技术博客、行业洞察文章）；\n3.建立并维护技术内容创作规范，保障内容风格统一、专业性与可读性兼具；\n4.备注：base地可选深圳/北京/上海。",
+    "requirements": "1.具备1-3年AI/科技领域技术写作经验者优先；\n2.熟悉AI核心技术概念，能快速理解复杂技术架构与产品逻辑；\n3.具备优秀的文字表达能力，兼顾专业性与通俗性，擅长将技术语言转化为易理解的内容；\n4.掌握技术文档写作规范，有白皮书、技术博客、行业报告等内容产出案例者优先；\n5.具备较强的协作能力与责任心，且有良好的细节把控与逻辑梳理能力。",
     "salary": "面议",
     "source": "tencent",
     "sourceUrl": "https://careers.tencent.com",
     "tags": [
-      "AI"
+      "AI",
+      "Agent"
+    ]
+  },
+  {
+    "id": "tencent_2055136913035276288",
+    "company": "腾讯",
+    "title": "AW项目组-AI产品前端工程师（IEG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-07-16",
+    "collectDate": "2026-07-16T23:08:25.333857+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2055136913035276288",
+    "description": "1.负责Web应用核心开发，搭建高质量可复用的前端架构及组件体系；\r\n2.负责前端状态管理与样式系统，保障数据流清晰、界面一致；\r\n3.集成各类复杂交互组件，保障良好用户体验；\r\n4.参与前端游戏相关开发，处理Canvas渲染、触控交互及动画；\r\n5.编写测试、维护组件文档，保障代码质量与可维护性；\r\n6.对接LLM API，参与AI对话界面及Agent工作流前端实现。",
+    "requirements": "1.精通TypeScript、主流前端框架及构建工具，有monorepo架构实践经验；\n2.熟练掌握前端状态管理、样式解决方案，能搭建可复用设计系统；\n3.熟悉HTML5 Canvas/WebGL，有互动内容或小游戏开发经验；\n4.具备良好工程素养，重视代码质量、错误处理、日志规范及国际化；\n5.理解Feature-First架构及DDD分层思想，能实现全链路类型安全；\n6.深度运用AI编程工具，高效驾驭AI辅助工作流，契合团队Vibe Coding核心模式。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "LLM",
+      "Agent"
     ]
   },
   {
@@ -28,7 +52,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-15",
+    "postDate": "2026-07-16",
     "collectDate": "2026-07-15T22:51:16.269985+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2069671178192207872",
@@ -45,6 +69,27 @@
     ]
   },
   {
+    "id": "tencent_1988158203220877312",
+    "company": "腾讯",
+    "title": "腾讯元宝AI战略分析师（CSIG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-07-16",
+    "collectDate": "2026-07-15T22:51:16.269985+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=1988158203220877312",
+    "description": "1.分析海内外 AI 领域的发展方向，产品机会和探索商业模式，输出深入的分析报告；\n2.监测市场行业数据、竞争对手动态，对重点产品情况进行深入分析，结合腾讯业务现状协助业务寻找提升的潜在机会点；\n3.统筹和监督AI产品相关用户研究项目的执行流程，确保用户研究项目产出有价值/可落地结论；\n4.通过内部业务数据/用户调研/专家访谈等多种调研手段对业务关注的问题进行系统性研究并形成可落地结论，驱动产品用户增长和留存提升。",
+    "requirements": "1.  3年 + 相关工作经验，具投资、咨询、互联网战略商分等工作经验优先；\n2.国内外优秀院校的计算机、软件工程、信息管理、信息系统和统计学、商业分析等专业优先；\n3.期望拥有旺盛的好奇心、强大的学习能力、和追求卓越的自驱力；\n4.良好的沟通合作能力，能够以书面和口头报告的形式清晰表达观点和思考逻辑；\n5.具备中英文听、说、读、写能力优先；\n6.对 AI 产品、技术趋势等有进行过专项研究经验的优先。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
     "id": "tencent_2044313817667760128",
     "company": "腾讯",
     "title": "腾讯云 SaaS AI产品-数据分析（CSIG）",
@@ -52,7 +97,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-07-15",
+    "postDate": "2026-07-16",
     "collectDate": "2026-07-14T22:51:39.271232+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2044313817667760128",
@@ -74,7 +119,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI应用工程师",
-    "postDate": "2026-07-15",
+    "postDate": "2026-07-16",
     "collectDate": "2026-07-13T23:47:42.937675+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2055087585080029184",
@@ -95,7 +140,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI应用工程师",
-    "postDate": "2026-07-15",
+    "postDate": "2026-07-16",
     "collectDate": "2026-07-13T23:47:42.937675+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2034114867123875840",
@@ -121,7 +166,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "自动化测试",
-    "postDate": "2026-07-15",
+    "postDate": "2026-07-16",
     "collectDate": "2026-07-13T23:47:42.937675+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2020809543059144704",
@@ -145,7 +190,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI应用工程师",
-    "postDate": "2026-07-15",
+    "postDate": "2026-07-16",
     "collectDate": "2026-07-02T23:15:22.219729+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1951113659853963264",
@@ -166,7 +211,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-07-15",
+    "postDate": "2026-07-16",
     "collectDate": "2026-07-10T23:35:42.474865+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2075461554291257344",
@@ -177,30 +222,6 @@
     "sourceUrl": "https://careers.tencent.com",
     "tags": [
       "AI"
-    ]
-  },
-  {
-    "id": "tencent_1978467627152072704",
-    "company": "腾讯",
-    "title": "微信输入法-AI产品经理（WXG）",
-    "location": "广州",
-    "locationCity": "广州",
-    "jobType": "社招",
-    "category": "大模型应用",
-    "postDate": "2026-07-15",
-    "collectDate": "2026-06-05T23:27:15.495956+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=1978467627152072704",
-    "description": "1.负责微信输入法 AI 方向的产品策划，围绕大语言模型（LLM）、Agent、多模态交互、语音识别与合成（ASR）等前沿技术，探索 AI 在文字输入、智能表达、语音交互、内容创作等核心场景的创新落地方案；\r\n2.深度挖掘用户在输入全链路中对 AI 的真实需求和使用场景，设计端到端的产品解决方案并推动落地，持续提升输入效率与表达体验；\r\n3.结合业务目标定义模型效果标准和评测体系，协同算法、工程、设计团队进行模型迭代优化与数据飞轮建设；\r\n4.持续跟踪大模型与 AI 交互领域的前沿趋势及竞品动态，提出创新性产品策略，强化微信输入法的 AI 产品心智。",
-    "requirements": "1.较强的学习能力和好奇心，对 AI 和大模型技术有深刻理解与热情，能快速跟进前沿研究并转化为可落地的产品方案；\r\n2.有 C 端 AI 产品经验，熟悉 LLM、Agent、多模态交互、语音交互（ASR）等至少一个方向的产品化落地；有 AI 评测体系搭建、策略产品经验者优先；\r\n3.较好的用户思维，对用户输入行为、表达需求和交互体验有敏锐洞察，能通过数据分析和用户研究驱动产品决策；\r\n4.出色的系统性思考与问题拆解能力，逻辑清晰，能独立负责复杂产品模块的从 0 到 1；\r\n5.对文字、语音、内容创作等场景有审美和感受力，能结合用户真实使用场景为模型制定贴合需求的任务目标与效果标准；\r\n6.优秀的执行力与推动力，能高效协同算法、工程、设计、测试等多角色团队，抗压能力强；\r\n7.一年及以上产品工作经验；曾经有算法工作经验的同学优先。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI",
-      "大模型",
-      "LLM",
-      "Agent"
     ]
   }
 ]
