@@ -1,5 +1,51 @@
 [
   {
+    "id": "tencent_2014174712460103680",
+    "company": "腾讯",
+    "title": "微信读书-大模型后台开发工程师（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "智能客服",
+    "postDate": "2026-07-22",
+    "collectDate": "2026-07-22T23:11:41.071717+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2014174712460103680",
+    "description": "1.负责微信读书 AI 相关功能的后台开发，包括搜推系统、TTS、内容社区等服务端的架构设计与实现；\n2.参与分布式系统架构演进，负责高并发场景下的服务治理、消息总线、多副本一致性等基础设施建设；\n3.优化 LLM 推理链路，包括流式响应、上下文压缩、Token 成本控制、降级兜底策略，提升服务稳定性与吞吐；\n4.建设 AI 工程提效工具，如智能客服、智能运维等。",
+    "requirements": "1.本科及以上学历，计算机相关专业，一年以上后台开发经验；\n2.熟练掌握至少一种后端语言（Go/Python/Java/C++），有高并发服务开发经验；\n3.熟悉分布式系统设计原理，了解高并发设计、一致性协议、消息队列、事件驱动架构等；\n4.有 LLM 应用落地经验，熟悉流式推理、多轮对话状态管理、Function Calling 等机制；\n5.对性能优化与成本控制有实际经验，具备良好的工程抽象与问题解决能力。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "大模型",
+      "LLM",
+      "Python"
+    ]
+  },
+  {
+    "id": "tencent_2044313817667760128",
+    "company": "腾讯",
+    "title": "腾讯云 SaaS AI产品-数据分析（CSIG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-07-22",
+    "collectDate": "2026-07-14T22:51:39.271232+08:00",
+    "isNew": false,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2044313817667760128",
+    "description": "1.负责CodeBuddy、腾讯文档、IMA 等 SaaS AI 智能体产品全链路数据监控与分析，搭建业务指标体系，建立数据看板与预警机制；\n2.通过数据挖掘指导产品设计、运营活动、用户增长策略优化，和运营、产品团队协作，输出可落地的优化建议并跟进和复盘策略结果；\n3.结合市场情况，针对产品定价、体验等输出竞争力分析方案，和业务侧制定优化计划；\n4.设计并实施A/B测试，量化策略效果，推动业务迭代。",
+    "requirements": "1.本科及以上学历，统计学、应用数学、数据科学等相关专业优先，3-5年数据分析相关工作经验；\n2.精通指标体系设计与常用数据分析方法，并有优秀的数据总结和可视化能力；\n3.熟练使用Python进行数据分析，精通Hive SQL，能够高效处理复杂查询与大规模数据；\n4.具备敏锐的数据洞察力，能够从数据中挖掘业务价值；逻辑严谨，分析全面，能够系统性输出可落地的结论与建议；\n5.擅长沟通协作，对有挑战的问题充满热情。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "Python"
+    ]
+  },
+  {
     "id": "tencent_2034114869342666752",
     "company": "腾讯",
     "title": "AI技术型产品运营（CSIG）",
@@ -7,7 +53,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "提示词工程",
-    "postDate": "2026-07-21",
+    "postDate": "2026-07-22",
     "collectDate": "2026-07-20T23:17:05.002959+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2034114869342666752",
@@ -25,29 +71,6 @@
     ]
   },
   {
-    "id": "tencent_2055136913035276288",
-    "company": "腾讯",
-    "title": "AW项目组-AI产品前端工程师（IEG）",
-    "location": "深圳",
-    "locationCity": "深圳",
-    "jobType": "社招",
-    "category": "AI产品",
-    "postDate": "2026-07-21",
-    "collectDate": "2026-07-16T23:08:25.333857+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2055136913035276288",
-    "description": "1.负责Web应用核心开发，搭建高质量可复用的前端架构及组件体系；\r\n2.负责前端状态管理与样式系统，保障数据流清晰、界面一致；\r\n3.集成各类复杂交互组件，保障良好用户体验；\r\n4.参与前端游戏相关开发，处理Canvas渲染、触控交互及动画；\r\n5.编写测试、维护组件文档，保障代码质量与可维护性；\r\n6.对接LLM API，参与AI对话界面及Agent工作流前端实现。",
-    "requirements": "1.精通TypeScript、主流前端框架及构建工具，有monorepo架构实践经验；\n2.熟练掌握前端状态管理、样式解决方案，能搭建可复用设计系统；\n3.熟悉HTML5 Canvas/WebGL，有互动内容或小游戏开发经验；\n4.具备良好工程素养，重视代码质量、错误处理、日志规范及国际化；\n5.理解Feature-First架构及DDD分层思想，能实现全链路类型安全；\n6.深度运用AI编程工具，高效驾驭AI辅助工作流，契合团队Vibe Coding核心模式。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI",
-      "LLM",
-      "Agent"
-    ]
-  },
-  {
     "id": "tencent_2069671178192207872",
     "company": "腾讯",
     "title": "微信小程序-大模型后台开发工程师-开发生态（WXG）",
@@ -55,7 +78,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-07-21",
+    "postDate": "2026-07-22",
     "collectDate": "2026-07-15T22:51:16.269985+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2069671178192207872",
@@ -68,28 +91,6 @@
       "大模型",
       "RAG",
       "Agent",
-      "Python"
-    ]
-  },
-  {
-    "id": "tencent_2044313817667760128",
-    "company": "腾讯",
-    "title": "腾讯云 SaaS AI产品-数据分析（CSIG）",
-    "location": "深圳",
-    "locationCity": "深圳",
-    "jobType": "社招",
-    "category": "AI产品",
-    "postDate": "2026-07-21",
-    "collectDate": "2026-07-14T22:51:39.271232+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2044313817667760128",
-    "description": "1.负责CodeBuddy、腾讯文档、IMA 等 SaaS AI 智能体产品全链路数据监控与分析，搭建业务指标体系，建立数据看板与预警机制；\n2.通过数据挖掘指导产品设计、运营活动、用户增长策略优化，和运营、产品团队协作，输出可落地的优化建议并跟进和复盘策略结果；\n3.结合市场情况，针对产品定价、体验等输出竞争力分析方案，和业务侧制定优化计划；\n4.设计并实施A/B测试，量化策略效果，推动业务迭代。",
-    "requirements": "1.本科及以上学历，统计学、应用数学、数据科学等相关专业优先，3-5年数据分析相关工作经验；\n2.精通指标体系设计与常用数据分析方法，并有优秀的数据总结和可视化能力；\n3.熟练使用Python进行数据分析，精通Hive SQL，能够高效处理复杂查询与大规模数据；\n4.具备敏锐的数据洞察力，能够从数据中挖掘业务价值；逻辑严谨，分析全面，能够系统性输出可落地的结论与建议；\n5.擅长沟通协作，对有挑战的问题充满热情。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI",
       "Python"
     ]
   }
