@@ -1,0 +1,73 @@
+[
+  {
+    "id": "tencent_2044313817667760128",
+    "company": "腾讯",
+    "title": "腾讯云 SaaS AI产品-数据分析（CSIG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-07-24",
+    "collectDate": "2026-07-14T22:51:39.271232+08:00",
+    "isNew": false,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2044313817667760128",
+    "description": "1.负责CodeBuddy、腾讯文档、IMA 等 SaaS AI 智能体产品全链路数据监控与分析，搭建业务指标体系，建立数据看板与预警机制；\n2.通过数据挖掘指导产品设计、运营活动、用户增长策略优化，和运营、产品团队协作，输出可落地的优化建议并跟进和复盘策略结果；\n3.结合市场情况，针对产品定价、体验等输出竞争力分析方案，和业务侧制定优化计划；\n4.设计并实施A/B测试，量化策略效果，推动业务迭代。",
+    "requirements": "1.本科及以上学历，统计学、应用数学、数据科学等相关专业优先，3-5年数据分析相关工作经验；\n2.精通指标体系设计与常用数据分析方法，并有优秀的数据总结和可视化能力；\n3.熟练使用Python进行数据分析，精通Hive SQL，能够高效处理复杂查询与大规模数据；\n4.具备敏锐的数据洞察力，能够从数据中挖掘业务价值；逻辑严谨，分析全面，能够系统性输出可落地的结论与建议；\n5.擅长沟通协作，对有挑战的问题充满热情。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "Python"
+    ]
+  },
+  {
+    "id": "tencent_2014174712460103680",
+    "company": "腾讯",
+    "title": "微信读书-大模型后台开发工程师（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "智能客服",
+    "postDate": "2026-07-24",
+    "collectDate": "2026-07-22T23:11:41.071717+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2014174712460103680",
+    "description": "1.负责微信读书 AI 相关功能的后台开发，包括搜推系统、TTS、内容社区等服务端的架构设计与实现；\n2.参与分布式系统架构演进，负责高并发场景下的服务治理、消息总线、多副本一致性等基础设施建设；\n3.优化 LLM 推理链路，包括流式响应、上下文压缩、Token 成本控制、降级兜底策略，提升服务稳定性与吞吐；\n4.建设 AI 工程提效工具，如智能客服、智能运维等。",
+    "requirements": "1.本科及以上学历，计算机相关专业，一年以上后台开发经验；\n2.熟练掌握至少一种后端语言（Go/Python/Java/C++），有高并发服务开发经验；\n3.熟悉分布式系统设计原理，了解高并发设计、一致性协议、消息队列、事件驱动架构等；\n4.有 LLM 应用落地经验，熟悉流式推理、多轮对话状态管理、Function Calling 等机制；\n5.对性能优化与成本控制有实际经验，具备良好的工程抽象与问题解决能力。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "大模型",
+      "LLM",
+      "Python"
+    ]
+  },
+  {
+    "id": "tencent_2034114869342666752",
+    "company": "腾讯",
+    "title": "AI技术型产品运营（CSIG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "提示词工程",
+    "postDate": "2026-07-24",
+    "collectDate": "2026-07-20T23:17:05.002959+08:00",
+    "isNew": false,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2034114869342666752",
+    "description": "1.智能社群管理（万人级）： 负责搭建与维护社群运营 Agent，实现万人社群的自动化答疑、活跃引导及违规监控，确保社群 7x24 小时高质量运转；\r\n2.内容生产与宣发提效： 开发专门针对业务场景的内容宣发智能体（Content Agent），通过 AI 辅助产出高质量文案、海报及视频脚本，并实现多平台的一键/自动化分发；\r\n3.前端快速迭代： 负责运营相关 H5、活动网页及产品前端界面的设计与开发。要求能够利用低代码或现代前端框架（如 Next.js/Tailwind）进行“最小化可行产品 (MVP)”的快速产出与测试；\r\n4.流程自动化： 持续探索 AI 工具链（如 n8n, Make, Zapier），消除运营过程中的重复劳动。",
+    "requirements": "1.AI 实操能力： 熟练掌握主流 LLM（GPT, Claude等）的 Prompt Engineering，有 Agent 框架（如 LangChain, Dify, CrewAI）实操经验者优先；\r\n2.全栈/前端技能： 具备基本的前端能力，能独立完成美观的网页设计与上线，审美在线；\r\n3.运营感知： 懂社群逻辑，知道如何通过技术手段提升用户粘性和转化率；\r\n4.敏捷思维： 崇尚“先跑通、再优化”，具备极强的快速迭代能力。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "GPT",
+      "LLM",
+      "Agent",
+      "LangChain"
+    ]
+  }
+]
