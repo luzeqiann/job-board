@@ -1,5 +1,50 @@
 [
   {
+    "id": "tencent_2037467994921271296",
+    "company": "腾讯",
+    "title": "企业微信-AI应用后台开发工程师-AI大模型应用（成都/北京）（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "AI应用工程师",
+    "postDate": "2026-07-29",
+    "collectDate": "2026-07-29T23:38:16.871030+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2037467994921271296",
+    "description": "1.负责企业微信AI应用后台系统的设计、开发与迭代，集成大模型能力，为企业用户提供智能对话、任务自动化等场景服务；\r\n2.构建高可用、低延迟的模型调用与服务调度框架，优化AI请求链路的稳定性与性能；\r\n3.与AI产品、算法团队紧密协作，推动LLM（大语言模型）功能在企微生态中的落地，扩展AI应用能力矩阵；\r\n4.负责分布式后台服务的功能开发、容灾设计与性能调优，保障系统在高并发场景下的可靠性。",
+    "requirements": "1.计算机/人工智能相关专业，1年以上工程开发经验；\r\n2.具备良好的编程能力，熟悉C++/Python，有1年以上Linux/Unix后台开发工作经验；\r\n3.了解大模型相关技术原理与基础知识，具备AI系统开发经验者优先；\r\n4.具备良好的问题分析解决能力、责任心强。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "大模型",
+      "LLM",
+      "Python"
+    ]
+  },
+  {
+    "id": "tencent_2071854091545526272",
+    "company": "腾讯",
+    "title": "产品体验设计师-AI方向（深圳/北京）（TEG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-07-29",
+    "collectDate": "2026-07-29T23:38:16.871030+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2071854091545526272",
+    "description": "1.负责混元 AI产品、平台全链路设计 ，包括完整项目从设计策略到UX/UI关键设计方案的产出；\r\n2.能够独立承担团队重点项目攻坚, 从体验和视觉的角度保障项目高质量落地；\r\n3.具备对产品理解的全局视角，能提出具备落地可行性的产品解决方案；\r\n4.参与团队设计体系建设，制定设计规范、搭建与维护设计组件库，沉淀方法与经验。",
+    "requirements": "1.1 年以上产品体验设计经验，可独立完成 AI 产品从 0 到 1 设计落地；\n2.全链路式的产品设计能力 (UX/UI可有侧重) ；\n3.注重创新、创意, 具备扎实的美学基础和设计功底，前瞻的审美判断力；\n4.具备良好团队合作精神，沟通高效、工作主动、责任心强。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
     "id": "tencent_2056017578089955328",
     "company": "腾讯",
     "title": "《三角洲行动》-AI产品运营（IEG）",
@@ -7,7 +52,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-07-28",
+    "postDate": "2026-07-29",
     "collectDate": "2026-07-27T23:44:44.421754+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2056017578089955328",
@@ -19,52 +64,6 @@
     "tags": [
       "AI",
       "LLM"
-    ]
-  },
-  {
-    "id": "tencent_2044313817667760128",
-    "company": "腾讯",
-    "title": "腾讯云 SaaS AI产品-数据分析（CSIG）",
-    "location": "深圳",
-    "locationCity": "深圳",
-    "jobType": "社招",
-    "category": "AI产品",
-    "postDate": "2026-07-28",
-    "collectDate": "2026-07-14T22:51:39.271232+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2044313817667760128",
-    "description": "1.负责CodeBuddy、腾讯文档、IMA 等 SaaS AI 智能体产品全链路数据监控与分析，搭建业务指标体系，建立数据看板与预警机制；\n2.通过数据挖掘指导产品设计、运营活动、用户增长策略优化，和运营、产品团队协作，输出可落地的优化建议并跟进和复盘策略结果；\n3.结合市场情况，针对产品定价、体验等输出竞争力分析方案，和业务侧制定优化计划；\n4.设计并实施A/B测试，量化策略效果，推动业务迭代。",
-    "requirements": "1.本科及以上学历，统计学、应用数学、数据科学等相关专业优先，3-5年数据分析相关工作经验；\n2.精通指标体系设计与常用数据分析方法，并有优秀的数据总结和可视化能力；\n3.熟练使用Python进行数据分析，精通Hive SQL，能够高效处理复杂查询与大规模数据；\n4.具备敏锐的数据洞察力，能够从数据中挖掘业务价值；逻辑严谨，分析全面，能够系统性输出可落地的结论与建议；\n5.擅长沟通协作，对有挑战的问题充满热情。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI",
-      "Python"
-    ]
-  },
-  {
-    "id": "tencent_2014174712460103680",
-    "company": "腾讯",
-    "title": "微信读书-大模型后台开发工程师（WXG）",
-    "location": "广州",
-    "locationCity": "广州",
-    "jobType": "社招",
-    "category": "智能客服",
-    "postDate": "2026-07-28",
-    "collectDate": "2026-07-22T23:11:41.071717+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2014174712460103680",
-    "description": "1.负责微信读书 AI 相关功能的后台开发，包括搜推系统、TTS、内容社区等服务端的架构设计与实现；\n2.参与分布式系统架构演进，负责高并发场景下的服务治理、消息总线、多副本一致性等基础设施建设；\n3.优化 LLM 推理链路，包括流式响应、上下文压缩、Token 成本控制、降级兜底策略，提升服务稳定性与吞吐；\n4.建设 AI 工程提效工具，如智能客服、智能运维等。",
-    "requirements": "1.本科及以上学历，计算机相关专业，一年以上后台开发经验；\n2.熟练掌握至少一种后端语言（Go/Python/Java/C++），有高并发服务开发经验；\n3.熟悉分布式系统设计原理，了解高并发设计、一致性协议、消息队列、事件驱动架构等；\n4.有 LLM 应用落地经验，熟悉流式推理、多轮对话状态管理、Function Calling 等机制；\n5.对性能优化与成本控制有实际经验，具备良好的工程抽象与问题解决能力。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI",
-      "大模型",
-      "LLM",
-      "Python"
     ]
   },
   {
