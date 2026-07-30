@@ -1,5 +1,26 @@
 [
   {
+    "id": "tencent_2071854091545526272",
+    "company": "腾讯",
+    "title": "产品体验设计师-AI方向（深圳/北京）（TEG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-07-30",
+    "collectDate": "2026-07-29T23:38:16.871030+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2071854091545526272",
+    "description": "1.负责混元 AI产品、平台全链路设计 ，包括完整项目从设计策略到UX/UI关键设计方案的产出；\r\n2.能够独立承担团队重点项目攻坚, 从体验和视觉的角度保障项目高质量落地；\r\n3.具备对产品理解的全局视角，能提出具备落地可行性的产品解决方案；\r\n4.参与团队设计体系建设，制定设计规范、搭建与维护设计组件库，沉淀方法与经验。",
+    "requirements": "1.1 年以上产品体验设计经验，可独立完成 AI 产品从 0 到 1 设计落地；\n2.全链路式的产品设计能力 (UX/UI可有侧重) ；\n3.注重创新、创意, 具备扎实的美学基础和设计功底，前瞻的审美判断力；\n4.具备良好团队合作精神，沟通高效、工作主动、责任心强。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
     "id": "tencent_2037467994921271296",
     "company": "腾讯",
     "title": "企业微信-AI应用后台开发工程师-AI大模型应用（成都/北京）（WXG）",
@@ -7,7 +28,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI应用工程师",
-    "postDate": "2026-07-29",
+    "postDate": "2026-07-30",
     "collectDate": "2026-07-29T23:38:16.871030+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2037467994921271296",
@@ -24,27 +45,6 @@
     ]
   },
   {
-    "id": "tencent_2071854091545526272",
-    "company": "腾讯",
-    "title": "产品体验设计师-AI方向（深圳/北京）（TEG）",
-    "location": "深圳",
-    "locationCity": "深圳",
-    "jobType": "社招",
-    "category": "AI产品",
-    "postDate": "2026-07-29",
-    "collectDate": "2026-07-29T23:38:16.871030+08:00",
-    "isNew": true,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2071854091545526272",
-    "description": "1.负责混元 AI产品、平台全链路设计 ，包括完整项目从设计策略到UX/UI关键设计方案的产出；\r\n2.能够独立承担团队重点项目攻坚, 从体验和视觉的角度保障项目高质量落地；\r\n3.具备对产品理解的全局视角，能提出具备落地可行性的产品解决方案；\r\n4.参与团队设计体系建设，制定设计规范、搭建与维护设计组件库，沉淀方法与经验。",
-    "requirements": "1.1 年以上产品体验设计经验，可独立完成 AI 产品从 0 到 1 设计落地；\n2.全链路式的产品设计能力 (UX/UI可有侧重) ；\n3.注重创新、创意, 具备扎实的美学基础和设计功底，前瞻的审美判断力；\n4.具备良好团队合作精神，沟通高效、工作主动、责任心强。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
     "id": "tencent_2056017578089955328",
     "company": "腾讯",
     "title": "《三角洲行动》-AI产品运营（IEG）",
@@ -52,7 +52,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-07-29",
+    "postDate": "2026-07-30",
     "collectDate": "2026-07-27T23:44:44.421754+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2056017578089955328",
