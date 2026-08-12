@@ -1,5 +1,68 @@
 [
   {
+    "id": "tencent_2071854091545526272",
+    "company": "腾讯",
+    "title": "产品体验设计师-AI方向（深圳/北京）（TEG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-08-12",
+    "collectDate": "2026-07-29T23:38:16.871030+08:00",
+    "isNew": false,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2071854091545526272",
+    "description": "1.负责混元 AI产品、平台全链路设计 ，包括完整项目从设计策略到UX/UI关键设计方案的产出；\r\n2.能够独立承担团队重点项目攻坚, 从体验和视觉的角度保障项目高质量落地；\r\n3.具备对产品理解的全局视角，能提出具备落地可行性的产品解决方案；\r\n4.参与团队设计体系建设，制定设计规范、搭建与维护设计组件库，沉淀方法与经验。",
+    "requirements": "1.1 年以上产品体验设计经验，可独立完成 AI 产品从 0 到 1 设计落地；\n2.全链路式的产品设计能力 (UX/UI可有侧重) ；\n3.注重创新、创意, 具备扎实的美学基础和设计功底，前瞻的审美判断力；\n4.具备良好团队合作精神，沟通高效、工作主动、责任心强。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "tencent_2084835941578616832",
+    "company": "腾讯",
+    "title": "企业微信-AI产品经理-邮箱方向（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-08-12",
+    "collectDate": "2026-08-12T22:23:34.870765+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2084835941578616832",
+    "description": "1.负责企业微信内邮箱相关产品策划工作，包括但不限于功能的产品设计，策略设计。\n2.负责探索邮箱结合AI 的机会点，并能结合实际需求持续提升企业微信内邮箱的使用体验。\n3.持续了解并挖掘企业微信与各个行业和场景结合的需求和体验提升。\n",
+    "requirements": "1.对产品设计有饱满热情，在功能策划上有一定经验和能力，有AI 产品落地经验为佳；\n2.善于观察和分析，善于发现关键问题，分清主次矛盾，具备很好的逻辑抽象能力，和框架系统思考的能力；\n3.有机会洞察能力，面对产品增长的瓶颈，有意愿突破难解的问题，寻找可能的出口尝试。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "tencent_2082723377528877056",
+    "company": "腾讯",
+    "title": "企业微信-AI产品经理-智能文档（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-08-12",
+    "collectDate": "2026-08-11T22:21:52.651514+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2082723377528877056",
+    "description": "1.负责企业微信智能文档的相关产品策划工作，具体包括但不限于策略制定、功能设计及推动上线；\n2.主要负责的功能模块是智能文档主框架、编辑和浏览体验、与企微基础功能的结合等；\n3.持续了解企业通讯工具、协同工具、企业微信与AI结合的需求和体验提升。",
+    "requirements": "1.对产品设计有饱满热情，在功能策划上有一定经验和能力；\n2.对企业办公工具有一定经验或者知识积累，且有结合用户视角理解的能力；\n3.善于观察和分析，善于发现关键问题，分清主次矛盾，具备很好的逻辑抽象能力，和框架系统思考的能力；\n4.有机会洞察能力，面对产品增长的瓶颈，有意愿突破难解的问题，寻找可能的出口尝试。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
     "id": "tencent_1880770535693004800",
     "company": "腾讯",
     "title": "企业微信-AI产品经理-智能助理Agent（WXG）",
@@ -7,7 +70,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-08-11",
+    "postDate": "2026-08-12",
     "collectDate": "2026-08-11T22:21:52.651514+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1880770535693004800",
@@ -22,27 +85,6 @@
     ]
   },
   {
-    "id": "tencent_2082723377528877056",
-    "company": "腾讯",
-    "title": "企业微信-AI产品经理-智能文档（WXG）",
-    "location": "广州",
-    "locationCity": "广州",
-    "jobType": "社招",
-    "category": "AI产品",
-    "postDate": "2026-08-11",
-    "collectDate": "2026-08-11T22:21:52.651514+08:00",
-    "isNew": true,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2082723377528877056",
-    "description": "1.负责企业微信智能文档的相关产品策划工作，具体包括但不限于策略制定、功能设计及推动上线；\n2.主要负责的功能模块是智能文档主框架、编辑和浏览体验、与企微基础功能的结合等；\n3.持续了解企业通讯工具、协同工具、企业微信与AI结合的需求和体验提升。",
-    "requirements": "1.对产品设计有饱满热情，在功能策划上有一定经验和能力；\n2.对企业办公工具有一定经验或者知识积累，且有结合用户视角理解的能力；\n3.善于观察和分析，善于发现关键问题，分清主次矛盾，具备很好的逻辑抽象能力，和框架系统思考的能力；\n4.有机会洞察能力，面对产品增长的瓶颈，有意愿突破难解的问题，寻找可能的出口尝试。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
     "id": "tencent_1951113659853963264",
     "company": "腾讯",
     "title": "微信秒剪-AI产品经理（WXG）",
@@ -50,7 +92,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI应用工程师",
-    "postDate": "2026-08-11",
+    "postDate": "2026-08-12",
     "collectDate": "2026-08-04T23:25:27.652721+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1951113659853963264",
@@ -71,7 +113,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI应用工程师",
-    "postDate": "2026-08-11",
+    "postDate": "2026-08-12",
     "collectDate": "2026-08-10T22:22:34.897651+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1985253844522782720",
@@ -92,7 +134,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-08-11",
+    "postDate": "2026-08-12",
     "collectDate": "2026-08-10T22:22:34.897651+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2054462480285085696",
@@ -113,7 +155,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-08-11",
+    "postDate": "2026-08-12",
     "collectDate": "2026-08-10T22:22:34.897651+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2038501839850336256",
@@ -136,7 +178,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-08-11",
+    "postDate": "2026-08-12",
     "collectDate": "2026-08-06T23:15:48.618957+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1978467627152072704",
@@ -150,27 +192,6 @@
       "大模型",
       "LLM",
       "Agent"
-    ]
-  },
-  {
-    "id": "tencent_2071854091545526272",
-    "company": "腾讯",
-    "title": "产品体验设计师-AI方向（深圳/北京）（TEG）",
-    "location": "深圳",
-    "locationCity": "深圳",
-    "jobType": "社招",
-    "category": "AI产品",
-    "postDate": "2026-08-11",
-    "collectDate": "2026-07-29T23:38:16.871030+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2071854091545526272",
-    "description": "1.负责混元 AI产品、平台全链路设计 ，包括完整项目从设计策略到UX/UI关键设计方案的产出；\r\n2.能够独立承担团队重点项目攻坚, 从体验和视觉的角度保障项目高质量落地；\r\n3.具备对产品理解的全局视角，能提出具备落地可行性的产品解决方案；\r\n4.参与团队设计体系建设，制定设计规范、搭建与维护设计组件库，沉淀方法与经验。",
-    "requirements": "1.1 年以上产品体验设计经验，可独立完成 AI 产品从 0 到 1 设计落地；\n2.全链路式的产品设计能力 (UX/UI可有侧重) ；\n3.注重创新、创意, 具备扎实的美学基础和设计功底，前瞻的审美判断力；\n4.具备良好团队合作精神，沟通高效、工作主动、责任心强。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI"
     ]
   }
 ]
