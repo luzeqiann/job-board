@@ -1,7 +1,7 @@
 {
-  "lastRun": "2026-08-15T21:32:35.608236+08:00",
+  "lastRun": "2026-08-16T21:33:30.098202+08:00",
   "totalJobs": 14,
-  "newJobsThisRun": 5,
+  "newJobsThisRun": 4,
   "statusPerSource": {
     "tencent": "success",
     "gdut": "success",
