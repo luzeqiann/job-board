@@ -1,0 +1,15 @@
+{
+  "lastRun": "2026-09-05T23:53:00.468614+08:00",
+  "totalJobs": 11,
+  "newJobsThisRun": 3,
+  "statusPerSource": {
+    "tencent": "success",
+    "gdut": "success",
+    "netease": "success",
+    "huawei": "success",
+    "state_owned": "success",
+    "bytedance": "success",
+    "alibaba": "success"
+  },
+  "errors": []
+}

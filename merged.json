@@ -1,0 +1,242 @@
+[
+  {
+    "id": "tencent_1880770535693004800",
+    "company": "腾讯",
+    "title": "企业微信-AI产品经理-智能助理Agent（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-09-05",
+    "collectDate": "2026-09-01T03:28:28.967432+08:00",
+    "isNew": false,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=1880770535693004800",
+    "description": "1.负责企业微信内的基础模块和AI功能的相关产品策划工作，具体包括但不限于基础功能的策略制定、功能设计及推动上线；\r\n2.主要负责的功能模块是企业微信AI相关功能、主框架、基础IM体验、基础管理体验等；\r\n3.持续了解企业通讯工具、协同工具、企业微信与AI结合的需求和体验提升。",
+    "requirements": "1.对产品设计有饱满热情，在功能策划上有一定经验和能力；\n2.对AI有一定经验或者知识积累，且有结合用户视角理解的能力；\n3.善于观察和分析，善于发现关键问题，分清主次矛盾，具备很好的逻辑抽象能力，和框架系统思考的能力；\n4.有机会洞察能力，面对产品增长的瓶颈，有意愿突破难解的问题，寻找可能的出口尝试。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "Agent"
+    ]
+  },
+  {
+    "id": "tencent_2095441701685608448",
+    "company": "腾讯",
+    "title": "Agent开发工程师（IEG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "自动化测试",
+    "postDate": "2026-09-05",
+    "collectDate": "2026-09-04T00:56:42.890085+08:00",
+    "isNew": true,
+    "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/China-Shenzhen/Agent_R108051-1",
+    "description": "团队介绍\n腾讯游戏商务部的主旨是建立腾讯与全球优质厂商的桥梁，服务与全球100+投资伙伴和重要厂商。持续扩大腾讯在全球互联网生态和游戏行业的影响力，利用敏锐的嗅觉捕捉高潜力商业合作机会，并帮助投资伙伴持续的成长。深耕亚太、欧美和新兴市场，与日本、韩国、美国、英国、法国、芬兰、德国等成熟市场和东南亚、中东、土耳其等新区域的伙伴建立了深度的战略合作关系，实现商业上的共赢。\n商务部期待全球的优秀人才一同加入，通过全球的优质人才网络巩固和扩大腾讯与全球合作伙伴的合作关系，并为市场孵化更多优质的游戏产品。\n\n岗位职责\n1.负责部门 Agent 产品研发，与业务、Agent 产品及运营团队紧密合作，将业务需求转化为可实现、可验证、可量化的技术方案，承担架构设计、前后端开发、测试、部署及持续迭代的完整闭环。2.负责 Agent 核心能力建设，包括企业知识库、RAG、记忆系统、工具调用、业务 Agent、MCP，以及 Multi-Agent 与人机协作流程的设计和实施。\n3.负责 Agent 与腾讯内部基础设施及产品的集成，包括模型与 Agent 平台、权限身份体系、知识库及数据平台，并通过 API、SDK、MCP等方式建设稳定、可复用的连接能力。\n4.建设部门 Agent Benchmark、评测与可观测体系，通过自动化评测、回归测试、Tracing、日志监控和反馈闭环，持续优化任务成功率、生成质量、稳定性、响应速度及成本。\n5.建设生产级工程与安全保障体系，包括 CI/CD、自动化测试、灰度发布、故障恢复、权限控制、操作审计和数据隔离，保障 Agent 产品安全稳定运行。\n\n岗位要求\n1.本科及以上学历，5 年以上软件研发经验，具备复杂系统或产品从0到1交付经验；能力和作品突出者可适当放宽。2.熟练掌握 JavaScript/TypeScript，熟悉 React 或 Vue 中至少一种主流前端框架。熟练使用 Python、Go、Java或基于 Node.js 的服务端开发技术，熟悉 API、数据库、缓存及异步任务，具备独立全栈交付能力。3.理解 Agent Loop、Memory、Tool Calling、RAG、MCP、Planning及 Multi-Agent 等技术，并具备实际 Agent 项目开发或生产落地经验。4.具备良好的工程、产品和跨团队协作能力，重视代码质量、测试、可观测性、安全性及上线结果，能够熟练使用 AI Coding 工具提升研发效率。加分项\n生产级 Agent、开发者工具或企业知识助手的落地经验。\n企业知识图谱、agent/LLM评测或反馈数据闭环经验。\n企业数据库系统建设，多来源数据库治理经验。\n\n腾讯致力于提供平等就业机会\n在腾讯，我们始终秉承平等就业机会的原则，致力于为每一位员工打造公平、包容的工作环境。我们坚信，多元的声音能够激发出无限的创新活力，推动我们为用户和社会提供更优质的服务。我们用心营造一个充满支持与激励的氛围，帮助每一位员工找到属于自己的舞台，以实现个人及共同的发展目标。\r\nWork Location: China-Shenzhen",
+    "requirements": "岗位要求详情请见上方岗位职责内说明",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "LLM",
+      "RAG",
+      "Agent",
+      "Python"
+    ]
+  },
+  {
+    "id": "tencent_1983435737080680448",
+    "company": "腾讯",
+    "title": "企业微信-AI产品体验设计师（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "AI产品",
+    "postDate": "2026-09-05",
+    "collectDate": "2026-09-03T01:05:48.625892+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=1983435737080680448",
+    "description": "1.负责企业微信移动端/桌面端/web端等设计工作；\n2.参与与产品经理初期的构思讨论，分析需求与目标，输出完整的设计方案并跟进执行落地；\n3.注重体验，持续推动产品优化体验与更新。",
+    "requirements": "1.本科及以上学历，2年及以上UI设计工作经验；\r\n2.有良好的设计审美与创意表现，热爱设计；注重细节，对各端设计规范和原则有一定的理解；\r\n3.有良好的逻辑能力，了解与使用相关交互设计方法；对于界面布局、交互流程等对设计目标的推动有自己的理解；\r\n4.自驱、有创作激情、创新欲望和责任感；有团队精神。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "tencent_2038501839850336256",
+    "company": "腾讯",
+    "title": "企业微信-AI产品经理-智能表格（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "大模型应用",
+    "postDate": "2026-09-05",
+    "collectDate": "2026-08-29T06:58:42.177484+08:00",
+    "isNew": false,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2038501839850336256",
+    "description": "1.负责企业微信文档（SaaS侧）核心功能的全流程策划与产品定义，包括需求调研、功能规划、产品设计及上线推动；\n2.深度打磨在线文档、表格、智能表格等文档形态的跨平台编辑体验，持续优化企业级协同创作与知识管理平台的易用性与流畅性；\n3.探索AI技术在企业知识沉淀与检索等场景的应用，推动AI能力与文档产品的深度融合；\n4.主导跨团队协作，与研发、设计、运营及商业化团队紧密配合，高效推进项目全生命周期管理，确保产品高质量交付；\n5.基于用户反馈与业务数据，持续迭代产品功能，提升用户满意度和产品竞争力。",
+    "requirements": "1.具备扎实的产品策划能力，能独立完成高质量PRD撰写与产品原型设计，对产品细节和用户体验有极致追求；\r\n2.拥有极强的系统性逻辑思维与业务抽象能力，能快速理解复杂业务场景并转化为清晰的产品方案；\r\n3.对AI Agent架构及大模型底层逻辑有一定理解，能敏锐识别技术趋势并将其转化为具备商业价值的产品功能；\r\n4.具备优秀的数据分析能力，能通过数据指标定位问题并制定有效的产品迭代策略。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "大模型",
+      "Agent"
+    ]
+  },
+  {
+    "id": "tencent_2088450750270324736",
+    "company": "腾讯",
+    "title": "AI产品经理-AI平台（Agent）方向（CDG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "大模型应用",
+    "postDate": "2026-09-05",
+    "collectDate": "2026-08-29T06:58:42.177484+08:00",
+    "isNew": false,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2088450750270324736",
+    "description": "1.负责金融科技AI平台产品的规划、设计和迭代，覆盖 Agent 研发流程、观测、追踪、安全、调优及成本控制等方案；\r\n2.负责金融科技AI工具平台，挖掘技术/非技术用户内部场景痛点，完善产品能力；\r\n3.参与组织级研发体系升级，梳理并设计多角色 Agent协同产品解决方案；\r\n4.建立 AI 服务效果评估治理，通过数据、用户反馈和 Badcase 持续优化产品。",
+    "requirements": "1.一年以上 AI/Agent 产品经验，有完整落地项目经历；计算机科学或相关技术领域的本科及以上学历；\r\n2.对AI行业趋势和大模型技术有较为深刻的理解和热情，具备 Agent 评测相关经验者优先，能够与工程师在Agent架构层面有效对焦；\r\n3.注重用户体验和反馈，具备较好的动手能力、逻辑能力、系统思考能力和表达能力，实事求是；\r\n4.深度使用 AI 工具，能自己动手验证，有模型品味；有对话/推荐/搜索、知识管理、开放平台/插件/Agent/MCP 生态、AI 效率工具等相关产品经验者优先。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "大模型",
+      "Agent"
+    ]
+  },
+  {
+    "id": "gdut_2574237",
+    "company": "广州极飞科技股份有限公司",
+    "title": "AI产品工程师",
+    "location": "| 广东省广州市黄埔区 | 全职 | 本科及以上",
+    "locationCity": "广州",
+    "jobType": "校招",
+    "category": "AI产品",
+    "postDate": "2026-09-04",
+    "collectDate": "2026-09-05T00:50:44.582954+08:00",
+    "isNew": true,
+    "url": "https://career.gdut.edu.cn/job/view/id/2574237",
+    "description": "",
+    "requirements": "",
+    "salary": "9000-14000",
+    "source": "gdut",
+    "sourceUrl": "https://career.gdut.edu.cn",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "gdut_2573514",
+    "company": "广州光锥元信息科技有限公司",
+    "title": "运营实习生（AI产品，SEO/GEO内容增长方向，有转正机会）",
+    "location": "| 广东省广州市天河区 | 实习 | 本科及以上",
+    "locationCity": "广州",
+    "jobType": "实习",
+    "category": "AI产品",
+    "postDate": "2026-08-25",
+    "collectDate": "2026-08-26T21:54:53.163042+08:00",
+    "isNew": false,
+    "url": "https://career.gdut.edu.cn/job/view/id/2573514",
+    "description": "",
+    "requirements": "",
+    "salary": "3000-4000",
+    "source": "gdut",
+    "sourceUrl": "https://career.gdut.edu.cn",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "gdut_2573512",
+    "company": "广州光锥元信息科技有限公司",
+    "title": "产品实习生(AI产品/多媒体/影像方向，有转正机会)",
+    "location": "| 广东省广州市天河区 | 实习 | 本科及以上",
+    "locationCity": "广州",
+    "jobType": "实习",
+    "category": "AI产品",
+    "postDate": "2026-08-25",
+    "collectDate": "2026-08-26T21:54:53.163042+08:00",
+    "isNew": false,
+    "url": "https://career.gdut.edu.cn/job/view/id/2573512",
+    "description": "",
+    "requirements": "",
+    "salary": "4000-6000",
+    "source": "gdut",
+    "sourceUrl": "https://career.gdut.edu.cn",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "gdut_2573511",
+    "company": "广州光锥元信息科技有限公司",
+    "title": "运营专员（AI产品，SEO/GEO增长方向）",
+    "location": "| 广东省广州市天河区 | 全职 | 本科及以上",
+    "locationCity": "广州",
+    "jobType": "校招",
+    "category": "AI产品",
+    "postDate": "2026-08-25",
+    "collectDate": "2026-08-26T21:54:53.163042+08:00",
+    "isNew": false,
+    "url": "https://career.gdut.edu.cn/job/view/id/2573511",
+    "description": "",
+    "requirements": "",
+    "salary": "14000-15000",
+    "source": "gdut",
+    "sourceUrl": "https://career.gdut.edu.cn",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "gdut_2573510",
+    "company": "广州光锥元信息科技有限公司",
+    "title": "产品专员（AI产品/多媒体/影像方向）",
+    "location": "| 广东省广州市天河区 | 全职 | 本科及以上",
+    "locationCity": "广州",
+    "jobType": "校招",
+    "category": "AI产品",
+    "postDate": "2026-08-25",
+    "collectDate": "2026-08-26T21:54:53.163042+08:00",
+    "isNew": false,
+    "url": "https://career.gdut.edu.cn/job/view/id/2573510",
+    "description": "",
+    "requirements": "",
+    "salary": "19000-20000",
+    "source": "gdut",
+    "sourceUrl": "https://career.gdut.edu.cn",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
+    "id": "gdut_2573334",
+    "company": "广州智跃深空人工智能科技有限公司",
+    "title": "AI产品实习生",
+    "location": "| 广东省广州市海珠区 | 实习 | 本科及以上",
+    "locationCity": "广州",
+    "jobType": "实习",
+    "category": "AI产品",
+    "postDate": "2026-08-21",
+    "collectDate": "2026-08-24T21:51:54.371281+08:00",
+    "isNew": false,
+    "url": "https://career.gdut.edu.cn/job/view/id/2573334",
+    "description": "",
+    "requirements": "",
+    "salary": "4000-7000",
+    "source": "gdut",
+    "sourceUrl": "https://career.gdut.edu.cn",
+    "tags": [
+      "AI"
+    ]
+  }
+]
