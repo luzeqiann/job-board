@@ -1,5 +1,74 @@
 [
   {
+    "id": "tencent_2086789748948643840",
+    "company": "腾讯",
+    "title": "微信小程序-大模型应用开发工程师-智能体方向（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "大模型应用",
+    "postDate": "2026-10-10",
+    "collectDate": "2026-10-10T02:50:12.590328+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2086789748948643840",
+    "description": "1.负责小程序智能体的探索与相关 Agent 工程的搭建，包括不限于行为理解、生成式 UI、可观测、复杂任务调度等；\n2.持续追踪前沿技术动态，并结合小程序生态，推动研究成果的业务验证和落地转化。",
+    "requirements": "1.1 年及以上工作经验，本科及以上学历，计算机基础扎实；\r\n2.对大型语言模型（LLM）及其应用开发（如Agent、Harness、MCP/A2A）有深入理解和实践经验；\r\n3.至少精通一门编程语言，具备扎实的系统设计能力，熟悉前后端全栈开发；\r\n4.具备较好的优化意识，有较强的问题分析解决能力，有较好的沟通能力，责任心强，有热情。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "大模型",
+      "LLM",
+      "Agent"
+    ]
+  },
+  {
+    "id": "tencent_2104460194154201088",
+    "company": "腾讯",
+    "title": "AI技术型产品运营（CSIG）",
+    "location": "深圳",
+    "locationCity": "深圳",
+    "jobType": "社招",
+    "category": "提示词工程",
+    "postDate": "2026-10-10",
+    "collectDate": "2026-10-10T02:50:12.590328+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=2104460194154201088",
+    "description": "1.智能社群管理（万人级）： 负责搭建与维护社群运营 Agent，实现万人社群的自动化答疑、活跃引导及违规监控，确保社群 7x24 小时高质量运转；\r\n2.内容生产与宣发提效： 开发专门针对业务场景的内容宣发智能体（Content Agent），通过 AI 辅助产出高质量文案、海报及视频脚本，并实现多平台的一键/自动化分发；\r\n3.前端快速迭代： 负责运营相关 H5、活动网页及产品前端界面的设计与开发。要求能够利用低代码或现代前端框架（如 Next.js/Tailwind）进行“最小化可行产品 (MVP)”的快速产出与测试；\r\n4.流程自动化： 持续探索 AI 工具链（如 n8n, Make, Zapier），消除运营过程中的重复劳动。",
+    "requirements": "1.AI 实操能力： 熟练掌握主流 LLM（GPT, Claude等）的 Prompt Engineering，有 Agent 框架（如 LangChain, Dify, CrewAI）实操经验者优先；\r\n2.全栈/前端技能： 具备基本的前端能力，能独立完成美观的网页设计与上线，审美在线；\r\n3.运营感知： 懂社群逻辑，知道如何通过技术手段提升用户粘性和转化率；\r\n4.敏捷思维： 崇尚“先跑通、再优化”，具备极强的快速迭代能力。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI",
+      "GPT",
+      "LLM",
+      "Agent",
+      "LangChain"
+    ]
+  },
+  {
+    "id": "tencent_1985253844522782720",
+    "company": "腾讯",
+    "title": "企业微信-AI产品经理-智能机器人（WXG）",
+    "location": "广州",
+    "locationCity": "广州",
+    "jobType": "社招",
+    "category": "AI应用工程师",
+    "postDate": "2026-10-10",
+    "collectDate": "2026-10-10T02:50:12.590328+08:00",
+    "isNew": true,
+    "url": "http://careers.tencent.com/jobdesc.html?postId=1985253844522782720",
+    "description": "1. 负责企业微信AI智能机器人相关产品策划工作，具体包括但不限于功能的策略制定、功能设计及推动上线；\n2. 主要负责企业场景下的智能体搭建服务，包括企业应用服务、数据与AI的结合，提供产品解决方案；\n3. 持续了解企业AI应用场景，与更多生态伙伴合作，帮助用户解决问题并为企业微信带来增长。",
+    "requirements": "1. 在产品功能策划上有一定经验和能力，愿意投身toB领域；\n2. 沟通能力好，善于观察和分析，具备很好的逻辑抽象、框架思考以及技术理解能力；\n3. 有AI相关背景优先。",
+    "salary": "面议",
+    "source": "tencent",
+    "sourceUrl": "https://careers.tencent.com",
+    "tags": [
+      "AI"
+    ]
+  },
+  {
     "id": "tencent_1880770535693004800",
     "company": "腾讯",
     "title": "企业微信-AI产品经理-智能助理Agent（WXG）",
@@ -7,7 +76,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-10-09",
+    "postDate": "2026-10-10",
     "collectDate": "2026-10-09T03:19:09.018789+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1880770535693004800",
@@ -29,7 +98,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-10-09",
+    "postDate": "2026-10-10",
     "collectDate": "2026-10-09T03:19:09.018789+08:00",
     "isNew": true,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1983435737080680448",
@@ -40,51 +109,6 @@
     "sourceUrl": "https://careers.tencent.com",
     "tags": [
       "AI"
-    ]
-  },
-  {
-    "id": "tencent_2038501839850336256",
-    "company": "腾讯",
-    "title": "企业微信-AI产品经理-效率办公 AI（WXG）",
-    "location": "广州",
-    "locationCity": "广州",
-    "jobType": "社招",
-    "category": "大模型应用",
-    "postDate": "2026-10-09",
-    "collectDate": "2026-09-29T04:09:31.236949+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2038501839850336256",
-    "description": "1.负责企业微信文档、智能表格 AI 能力的策划与定义，包括需求调研、产品设计、效果评测及上线推动；\r\n2.深入理解文档创作、表格处理、数据分析、业务协作中的真实需求，持续打磨产品体验；\r\n3.探索 AI 在文档与智能表格中的应用，通过大模型与 Agent 提升内容生成与编辑、信息整理、数据分析、可视化等工作的效率；\r\n4.与研发、算法、设计、运营等团队紧密协作，推动 AI 产品从方案设计到上线迭代；\r\n5.基于用户反馈、真实场景中的使用效果，持续优化 AI 能力与产品效果。",
-    "requirements": "1.具备扎实的产品策划与设计能力，能够从真实场景中抽象共性需求，并转化为清晰、简单、可落地的产品方案；\r\n2.对文档、表格及效率工具有较强兴趣与理解，熟悉在线文档、电子表格、智能表格/多维表等一类或多类产品；\r\n3.对大模型、AI Agent 有较好的理解，熟悉主流 AI 产品，深入理解相关技术原理、模型能力与边界；\r\n4.具备优秀的系统性逻辑思维、业务抽象能力、数据分析能力。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI",
-      "大模型",
-      "Agent"
-    ]
-  },
-  {
-    "id": "tencent_2102933911133929472",
-    "company": "腾讯",
-    "title": "AI Infra 操作系统SRE工程师（TEG）",
-    "location": "深圳",
-    "locationCity": "深圳",
-    "jobType": "社招",
-    "category": "智能客服",
-    "postDate": "2026-10-09",
-    "collectDate": "2026-09-25T01:53:34.338610+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2102933911133929472",
-    "description": "1.负责 TencentOS在公司内外部业务的技术支持与问题闭环，覆盖装机部署、版本升级、运行时故障、性能异常等全场景；\r\n2.承接线上疑难问题的定位与根因分析，涉及内核（调度/内存/IO/网络）、文件系统、容器与虚拟化环境，能独立输出分析报告并推动修复上线；\r\n3.支撑服务器硬件适配与交付流程（PVT 阶段验证、驱动/固件兼容性、批量装机与 PXE 自动化部署）；\r\n4.面向业务方做性能调优与容量优化建议，沉淀调优基线与最佳实践；\r\n5.推动支持工作的产品化与自动化：完善知识库、丰富诊断工具与巡检脚本、参与智能客服问答语料与效果评测，持续降低人工支持占比。",
-    "requirements": "1.本科及以上，计算机相关专业，3 年以上 Linux 系统运维、内核或技术支持经验；\r\n2.扎实的 Linux 系统原理基础，熟练使用 perf、ftrace、eBPF、systemtap、crash 等工具，有内核 crash / hang / 性能劣化排查实战经验；\r\n3.熟悉服务器硬件体系（CPU/内存/存储/网卡）与常见故障表现，了解 RAID、NVMe、RDMA、bond 等技术；\r\n4.熟练掌握 Shell/Python，具备自动化工具或平台开发能力；\r\n5.具备良好的客户沟通与文档撰写能力，能在高压故障场景下清晰推进协同。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI",
-      "Python"
     ]
   },
   {
