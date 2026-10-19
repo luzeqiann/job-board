@@ -7,7 +7,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-10-19",
+    "postDate": "2026-10-20",
     "collectDate": "2026-10-15T01:57:56.961045+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2044313817667760128",
@@ -29,7 +29,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "大模型应用",
-    "postDate": "2026-10-19",
+    "postDate": "2026-10-20",
     "collectDate": "2026-10-15T01:57:56.961045+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1978467627152072704",
@@ -53,7 +53,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI产品",
-    "postDate": "2026-10-19",
+    "postDate": "2026-10-20",
     "collectDate": "2026-10-15T01:57:56.961045+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2054462480285085696",
@@ -74,7 +74,7 @@
     "locationCity": "深圳",
     "jobType": "社招",
     "category": "自动化测试",
-    "postDate": "2026-10-19",
+    "postDate": "2026-10-20",
     "collectDate": "2026-10-14T03:55:44.237779+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=2109974490632073216",
@@ -95,7 +95,7 @@
     "locationCity": "广州",
     "jobType": "社招",
     "category": "AI应用工程师",
-    "postDate": "2026-10-19",
+    "postDate": "2026-10-20",
     "collectDate": "2026-10-13T05:45:29.499689+08:00",
     "isNew": false,
     "url": "http://careers.tencent.com/jobdesc.html?postId=1951113659853963264",
@@ -106,50 +106,6 @@
     "sourceUrl": "https://careers.tencent.com",
     "tags": [
       "AI"
-    ]
-  },
-  {
-    "id": "tencent_2009212421759193088",
-    "company": "腾讯",
-    "title": "企业微信-AI产品体验设计师（WXG）",
-    "location": "广州",
-    "locationCity": "广州",
-    "jobType": "社招",
-    "category": "AI产品",
-    "postDate": "2026-10-19",
-    "collectDate": "2026-10-11T01:47:20.782012+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2009212421759193088",
-    "description": "1.负责企业微信移动端/桌面端/web端等设计工作；\n2.参与产品初期的构思讨论，分析需求与目标，输出完整的设计方案跟进并执行落地；\n3.注重体验，持续推动产品优化体验与更新。",
-    "requirements": "1.本科及以上学历，2年及以上UI设计工作经验；\r\n2.热爱设计，有良好的设计审美与创意表现；注重细节，对各端设计规范和原则有一定的理解；\r\n3.有良好的逻辑能力，能够应用相关交互设计方法对设计方案有合理的推导，并能有效的进行验证；\r\n4.自驱、有创作激情、创新欲望和责任感；有团队精神。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "AI"
-    ]
-  },
-  {
-    "id": "tencent_2086789748948643840",
-    "company": "腾讯",
-    "title": "微信小程序-大模型应用开发工程师-智能体方向（WXG）",
-    "location": "广州",
-    "locationCity": "广州",
-    "jobType": "社招",
-    "category": "大模型应用",
-    "postDate": "2026-10-19",
-    "collectDate": "2026-10-10T02:50:12.590328+08:00",
-    "isNew": false,
-    "url": "http://careers.tencent.com/jobdesc.html?postId=2086789748948643840",
-    "description": "1.负责小程序智能体的探索与相关 Agent 工程的搭建，包括不限于行为理解、生成式 UI、可观测、复杂任务调度等；\n2.持续追踪前沿技术动态，并结合小程序生态，推动研究成果的业务验证和落地转化。",
-    "requirements": "1.1 年及以上工作经验，本科及以上学历，计算机基础扎实；\r\n2.对大型语言模型（LLM）及其应用开发（如Agent、Harness、MCP/A2A）有深入理解和实践经验；\r\n3.至少精通一门编程语言，具备扎实的系统设计能力，熟悉前后端全栈开发；\r\n4.具备较好的优化意识，有较强的问题分析解决能力，有较好的沟通能力，责任心强，有热情。",
-    "salary": "面议",
-    "source": "tencent",
-    "sourceUrl": "https://careers.tencent.com",
-    "tags": [
-      "大模型",
-      "LLM",
-      "Agent"
     ]
   }
 ]
